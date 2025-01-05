@@ -11,3 +11,5 @@ Questo "hello world" è il mio repository iniziale.
 * Fare login sul proprio account
 * Creare un repository
 * Creare un codespace e associarlo al repository
+* Aprire il codespace e creare un file con estensione ipynb
+* Selezionare un nuovo kernel Python
